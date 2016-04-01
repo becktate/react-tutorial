@@ -8,5 +8,30 @@
         "id": 1420070400000,
         "author": "Paul O’Shannessy",
         "text": "React is *great*!"
+    },
+    {
+        "id": 1459532526250,
+        "author": "Becky Tate",
+        "text": "Woooahhh"
+    },
+    {
+        "id": 12,
+        "author": "Becky Tate",
+        "text": "Manual change to json file"
+    },
+    {
+        "id": 1459534860766,
+        "author": "Becky",
+        "text": "Moran"
+    },
+    {
+        "id": 1459534970459,
+        "author": "Author",
+        "text": "comment"
+    },
+    {
+        "id": 1459535062047,
+        "author": "Becky",
+        "text": "optimistic comment"
     }
 ]
